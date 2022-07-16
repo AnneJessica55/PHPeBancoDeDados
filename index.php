@@ -149,6 +149,7 @@ echo <<<HTML
 
 HTML;
 
+
 /**
  * Inclui o rodapé do template nesta página.
  */
